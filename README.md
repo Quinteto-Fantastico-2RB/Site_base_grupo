@@ -1,8 +1,7 @@
 # BASED 
 ## Planejando o plantar
 
-Uma empresa fundada por cinco jovens com amor pela natureza. 
-A qual irá revolucionar a forma de jardinagem de todos nós!
+Uma empresa fundada por cinco jovens com amor pela natureza, a qual irá revolucionar a forma de jardinagem de todos nós com muita inovação e responsabilidade ambiental!
 
 ![](https://github.com/Quinteto-Fantastico-2RB/Site_base_grupo/blob/main/LOGO.jpg)
 
